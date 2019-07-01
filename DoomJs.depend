@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1562022499 source:/home/ubuntu/Escritorio/DoomJs/src/Doom.cpp
+	"Doom.h"
+	<iostream>
+	<string>
+
+1562022801 /home/ubuntu/Escritorio/DoomJs/include/Doom.h
+	<string>
+	<vector>
+	<iostream>
+
+1561930984 source:/home/ubuntu/Escritorio/DoomJs/src/Builder.cpp
+	"Builder.h"
+
+1561930972 /home/ubuntu/Escritorio/DoomJs/include/Builder.h
+
+1561847408 source:/home/ubuntu/Escritorio/DoomJs/src/Field.cpp
+	"Field.h"
+
+1561847408 /home/ubuntu/Escritorio/DoomJs/include/Field.h
+
+1561850803 source:/home/ubuntu/Escritorio/DoomJs/src/IO.cpp
+	"IO.h"
+	<iostream>
+	<fstream>
+
+1561848448 /home/ubuntu/Escritorio/DoomJs/include/IO.h
+
+1562022059 source:/home/ubuntu/Escritorio/DoomJs/main.cpp
+	<iostream>
+	"Doom.h"
+	"IO.h"
+	"Properties.h"
+	"Div.h"
+
+1561851568 /home/ubuntu/Escritorio/DoomJs/include/Properties.h
+	<string>
+
+1561851986 source:/home/ubuntu/Escritorio/DoomJs/src/Properties.cpp
+	"Properties.h"
+	<string>
+	<iostream>
+
+1562022450 /home/ubuntu/Escritorio/DoomJs/include/Div.h
+	<string>
+	<vector>
+	<iostream>
+	"Doom.h"
+
+1562022756 source:/home/ubuntu/Escritorio/DoomJs/src/Div.cpp
+	"Div.h"
+	<string>
+	<iostream>
+	"Doom.h"
+
+1562022736 source:/home/ubuntu/Escritorio/DoomJs/src/Href.cpp
+	"Href.h"
+	<string>
+	<iostream>
+
+1562022756 /home/ubuntu/Escritorio/DoomJs/include/Href.h
+	<vector>
+	<string>
+	<iostream>
+	"Doom.h"
+
